@@ -35,8 +35,19 @@ palmyra datasets
 - ASV list
 - ASV by sample list with taxonomic assignments (ALL)
 
+## Permanent Plot Data
+
+- raw datasheets
+- summarised data
+
+## Seedling plots
+
+- seedling measurement data (all other associated data from Hillary PhD)
+
 ## List (and hyperlinks, when applicable) to publications or planned publications
 
 - Nigro et al. 2017
 - Miller-ter Kuile et al. *in review* 2021
+- Young et al. papers
+- Miller-ter Kuile et al. 2020 Biotropica
 
