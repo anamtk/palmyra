@@ -27,7 +27,7 @@ palmyra datasets
 
 *Associated publications*:
 - Briggs et al. 2012
-- Miller-ter Kuile 2012
+- Miller-ter Kuile et al. 2012
 - Young et al. 2013a
 - Young et al. 2017
 - Nigro et al. 2017
