@@ -6,8 +6,8 @@ palmyra datasets
 ## Isotopes
 
 - crabs (part of Nigro paper)
-- geckos
-- spiders
+- geckos (part of Briggs et al)
+- spiders (Young et al. 2013, Ana undergrad thesis, and unpublished)
 
 ## 2011 Island data
 
@@ -50,4 +50,5 @@ palmyra datasets
 - Miller-ter Kuile et al. *in review* 2021
 - Young et al. papers
 - Miller-ter Kuile et al. 2020 Biotropica
+- Briggs et al. 2011
 
