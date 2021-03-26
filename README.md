@@ -51,4 +51,5 @@ palmyra datasets
 - Young et al. papers
 - Miller-ter Kuile et al. 2020 Biotropica
 - Briggs et al. 2011
+- Wolf et al. 
 
